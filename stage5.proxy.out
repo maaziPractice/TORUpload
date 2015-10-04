@@ -1,0 +1,19 @@
+proxy port: 56093
+router: 6, pid: 2172, port: 0, IP: 192.168.206.2
+router: 5, pid: 2171, port: 0, IP: 192.168.205.2
+router: 4, pid: 2170, port: 0, IP: 192.168.204.2
+router: 3, pid: 2169, port: 0, IP: 192.168.203.2
+router: 2, pid: 2168, port: 0, IP: 192.168.202.2
+router: 1, pid: 2167, port: 0, IP: 192.168.201.2
+hop: 1, router: 6
+hop: 2, router: 1
+hop: 3, router: 2
+hop: 4, router: 3
+pkt from port: 44155, length: 5, contents: 0x520100c45a
+incoming extend-done circuit, incoming: 0x01 from port: 44155
+pkt from port: 44155, length: 5, contents: 0x520100c361
+incoming extend-done circuit, incoming: 0x107 from port: 44155
+pkt from port: 44155, length: 5, contents: 0x520100a174
+incoming extend-done circuit, incoming: 0x208 from port: 44155
+pkt from port: 44155, length: 5, contents: 0x520100ffff
+incoming extend-done circuit, incoming: 0x30a from port: 44155

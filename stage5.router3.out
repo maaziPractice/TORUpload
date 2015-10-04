@@ -1,0 +1,3 @@
+router: 3, pid: 2169, port: 0, IP: 192.168.203.2
+pkt from port: 50017, length: 5, contents: 0x520a03ffff
+new extend circuit: incoming: 0xa03, outgoing: 0xd04 at 50017

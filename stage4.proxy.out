@@ -1,0 +1,14 @@
+proxy port: 58243
+router: 1, pid: 1834, port: 0, IP: 192.168.201.2
+ICMP from tunnel, src: 192.168.91.199, dst: 128.30.2.134, type: 8
+ICMP from port: 47478, src: 128.30.2.134, dst: 192.168.91.199, type: 0
+ICMP from tunnel, src: 192.168.91.199, dst: 128.30.2.134, type: 8
+ICMP from port: 47478, src: 128.30.2.134, dst: 192.168.91.199, type: 0
+ICMP from tunnel, src: 192.168.91.199, dst: 128.30.2.134, type: 8
+ICMP from port: 47478, src: 128.30.2.134, dst: 192.168.91.199, type: 0
+ICMP from tunnel, src: 192.168.91.199, dst: 128.30.2.134, type: 8
+ICMP from port: 47478, src: 128.30.2.134, dst: 192.168.91.199, type: 0
+ICMP from tunnel, src: 192.168.91.199, dst: 128.30.2.134, type: 8
+ICMP from port: 47478, src: 128.30.2.134, dst: 192.168.91.199, type: 0
+ICMP from tunnel, src: 192.168.91.199, dst: 128.30.2.134, type: 8
+ICMP from port: 47478, src: 128.30.2.134, dst: 192.168.91.199, type: 0

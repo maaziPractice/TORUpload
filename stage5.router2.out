@@ -1,0 +1,7 @@
+router: 2, pid: 2168, port: 0, IP: 192.168.202.2
+pkt from port: 50266, length: 5, contents: 0x520802a174
+new extend circuit: incoming: 0x802, outgoing: 0xa03 at 50266
+pkt from port: 50266, length: 5, contents: 0x520a03ffff
+forwarding extend circuit: incoming: 0x802, outgoing: 0xa03 at 41332
+pkt from port: 41332, length: 3, contents: 0x530a03
+forwarding extend circuit: incoming: 0xa03, outgoing: 0x802 at 50266

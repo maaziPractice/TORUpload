@@ -1,0 +1,8 @@
+I am here 0x1F4 and Int is -523 String is mayur unsigned short is 15874
+I am here 0x1F4 and Int is -23 String is mayur unsigned short is 15874 and the final blow is 34  this is new -1000
+I am here 0xDE9B and Int is -623 String is mayur unsigned short is 15874
+
+
+	tf->logIT("I am here 0x%02X and Int is %d String is %s unsigned short is %u",500,-523, "mayur",15874);
+		tf->logIT("I am here 0x%02X and Int is %d String is %s unsigned short is %u and the final blow is %hu  this is new %d",500,-23, "mayur",15874,34,-1000);
+		tf->logIT("I am here 0x%02X and Int is %d String is %s unsigned short is %u",56987,-623, "mayur",15874);

@@ -1,0 +1,15 @@
+router: 6, pid: 2172, port: 0, IP: 192.168.206.2
+pkt from port: 56093, length: 5, contents: 0x520100c45a
+new extend circuit: incoming: 0x100, outgoing: 0x701 at 56093
+pkt from port: 56093, length: 5, contents: 0x520701c361
+forwarding extend circuit: incoming: 0x100, outgoing: 0x701 at 50266
+pkt from port: 50266, length: 3, contents: 0x530701
+forwarding extend circuit: incoming: 0x701, outgoing: 0x100 at 56093
+pkt from port: 56093, length: 5, contents: 0x520701a174
+forwarding extend circuit: incoming: 0x100, outgoing: 0x701 at 50266
+pkt from port: 50266, length: 3, contents: 0x530802
+forwarding extend circuit: incoming: 0x701, outgoing: 0x100 at 56093
+pkt from port: 56093, length: 5, contents: 0x520701ffff
+forwarding extend circuit: incoming: 0x100, outgoing: 0x701 at 50266
+pkt from port: 50266, length: 3, contents: 0x530a03
+forwarding extend circuit: incoming: 0x701, outgoing: 0x100 at 56093

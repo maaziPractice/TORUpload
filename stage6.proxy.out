@@ -1,0 +1,10 @@
+proxy port: 44514
+router: 5, pid: 1768, port: 0, IP: 192.168.205.2
+router: 4, pid: 1767, port: 0, IP: 192.168.204.2
+router: 6, pid: 1769, port: 0, IP: 192.168.206.2
+router: 3, pid: 1766, port: 0, IP: 192.168.203.2
+router: 2, pid: 1765, port: 0, IP: 192.168.202.2
+router: 1, pid: 1764, port: 0, IP: 192.168.201.2
+hop: 2, router: 6
+hop: 1, router: 2
+hop: 2, router: 3
